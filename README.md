@@ -1,43 +1,137 @@
+# Hi, I'm Nebu Chirackal Thomas 👋
+
+💻 Junior Full Stack Developer | Java | React | C++ | SQL | AI & NLP  
+📍 Kerala, India  
+🎓 B.E. Computer Science & Engineering | First Class with Distinction (CGPA: 8.60)
 
 ---
 
-# Hello, I'm Nebu C Thomas! 👋
-based on Kerala, India ( Currently at Mahendra Engineering College, Namakkal, TamilNadu)
+## 🚀 About Me
 
-### About Me
+I'm a Computer Science graduate passionate about building scalable software and solving real-world problems through technology.
 
-I am a passionate developer specializing in web development, with strong skills in core Java, AI, ML, Linux, SQL, JavaScript, Python, CMD, and terminal usage. I am adept at using various technical software and IDEs. My background includes leadership experience in project management and effective communication.
+My interests include **Full Stack Development, Software Engineering, Artificial Intelligence, and Cloud Computing**. I enjoy creating responsive web applications, working with object-oriented programming, and continuously learning new technologies.
 
-### Skills
-
-- **Programming Languages:** Java, JavaScript, Python, HTML, CSS, CMD
-- **Technologies:** AI, Machine Learning, Linux, SQL
-- **Tools & Platforms:** Various IDEs, Command Line, Terminal
-- **Soft Skills:** Leadership, Communication, Project Management
-
-### Experience
-
-- **Redhat Academy Student Ambassador:** Represented and promoted Redhat Academy initiatives.
-- **Web Development Lead:** Led teams in developing web-based solutions.
-- **English Literary Club President:** Organized and managed literary activities.
-- **Media Team Head:** Managed media production and communications.
-
-### Projects
-
-- **Text Summarization:** Implemented a system to summarize text using NLP techniques.
-- **Portfolio Website:** Developed a personal website showcasing skills and projects.
-- **Salon Management System:** Created a system to manage salon operations efficiently.
-- **Nutritional Meal Planner - ML:** Built an AI-powered meal planner based on nutritional data.
-
-### Get in Touch
-
-- LinkedIn: [Nebu C Thomas on LinkedIn](https://www.linkedin.com/in/nebucthomas2003/)
-- Portfolio:[https://nebucthomas2003.github.io/Portfolio_Website/]
-- Email: [nebunevin2003@gmail.com]
-
-
-### Thank You
-
-Thank you for visiting my profile! Feel free to explore my projects and get in touch.
+I'm also a co-author of an **IEEE conference paper** on **LSTM-based Text Summarization** and was recognized as one of the **Top 5 Red Hat Academy Student Ambassadors** in India.
 
 ---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Java
+- C++
+- C#
+- JavaScript
+- Python
+- SQL
+- HTML5
+- CSS3
+
+### Frameworks & Libraries
+- React
+- Bootstrap
+- Express.js
+- Node.js
+
+### Databases
+- MySQL
+- MongoDB
+
+### Tools & Platforms
+- Git
+- GitHub
+- Linux
+- VS Code
+- Azure DevOps
+
+### AI & Machine Learning
+- Machine Learning
+- Natural Language Processing (NLP)
+- LSTM Networks
+- Text Summarization
+
+---
+
+## 💼 Experience
+
+### Artificial Intelligence Intern
+**Infosys Springboard**
+
+- Developed an NLP-based Text Summarization system
+- Worked with extractive and abstractive summarization
+- Processed text, PDF, audio, and video inputs
+
+### Salesforce Developer Virtual Intern
+**SmartBridge × Salesforce**
+
+- Learned Salesforce fundamentals
+- Built cloud-based application components
+
+---
+
+## 📂 Featured Projects
+
+### 🏆 Mavano Sports Academy Website
+Responsive React website for a sports academy offering professional coaching services.
+
+**Tech:** React • JavaScript • Bootstrap • HTML • CSS
+
+---
+
+### 📖 Text Summarization using NLP & ML
+AI-powered application that generates summaries from text, PDFs, audio, and video.
+
+**Tech:** Python • NLP • Machine Learning • LSTM
+
+---
+
+### 🍽️ Nutritional Meal Planner
+Machine Learning-based web application that recommends meal plans based on BMI.
+
+**Tech:** HTML • CSS • JavaScript • SQL • ML
+
+---
+
+### 💇 Salon Management System
+Desktop application for appointment booking, billing, reporting, and customer management.
+
+**Tech:** Java • SQL
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Top 5 Red Hat Academy Student Ambassador (India)
+- 📄 IEEE Conference Publication (ICSCDS 2025)
+- ☁️ Microsoft Azure Cloud Skill Challenge – Best Performer
+- 🏅 Hackathon Winner – ML-Based Nutrition App
+
+---
+
+## 🌍 Languages
+
+- 🇬🇧 English (IELTS Academic Band 7.0)
+- 🇩🇪 German (CEFR A2 | Preparing for B1)
+- 🇮🇳 Malayalam (Native)
+- Tamil (Intermediate)
+
+---
+
+## 📫 Connect With Me
+
+🌐 **Portfolio**  
+https://nebucthomas2003.github.io/Portfolio_Website/
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/nebucthomas2003/
+
+💻 **GitHub**  
+https://github.com/nebucthomas2003
+
+📧 **Email**  
+nebunevin2003@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories, share feedback, or connect for collaboration and software engineering opportunities.
